@@ -1,0 +1,6 @@
+en: &DEFAULT_EN
+  header:
+    title: Crossroads
+    text: TODO
+    button: Tell Me More
+    buttonlink: "#ccLD_P"

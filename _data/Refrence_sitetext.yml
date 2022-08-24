@@ -1,0 +1,117 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Crossroads
+    text: TODO
+    button: Tell Me More
+    buttonlink: "#services"
+
+  
+  services:
+    title: "Services"
+    text: "TODO"
+    section: services
+    list:
+      - title: "TODO"
+        desc: need text from costomer
+        icon: assets/img/devReplacement.jpg #find more at https://fontawesome.com/icons
+
+  portfolio:
+    title: "Portfolio"
+    text: "TODO"
+    section: portfolio
+    closebutton: "Close Project"
+
+  timeline:
+    title: "Timeline"
+    text: "TODO (ask if section should be kept?)"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "TODO"
+        year: "2022"
+        desc: ""
+        image: assets/img/devReplacementSmall.jpg
+        alt: "No Image Provided"
+      - title: "Future refrence"
+        year: ""
+        desc: ""
+        image: assets/img/devReplacementSmall.jpg
+        alt: "No Image provided"
+        # you can enforce the alignment
+        align: right
+    end: "TODO"
+
+  about:
+    title: "About Us"
+    text: "TODO"
+    body: "TODO"
+    section: about
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    title: Providers
+    list:
+      - title: "TODO"
+        logo: assets/img/devReplacementSmall.jpg
+
+  team:
+    title: "Contact Me"
+    text: "TODO"
+    subtext: Get contact info and image
+    section: team
+    people:
+      - name: "Lindsey Koppert"
+        role: ""
+        image: assets/img/devReplacement.jpg
+        social:
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://gmail.com
+            icon: fab fa-envelope
+      
+
+  contact:
+    title: "Contact Us"
+    text: "TODO (keep?)"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    text: Jekyll theme provided by
+    legal: "Privacy Policy"
+    social:
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+
