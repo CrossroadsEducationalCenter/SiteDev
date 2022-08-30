@@ -33,7 +33,7 @@ Common Learning Differences include:
 
 ## Red Flags
 
-PDF’s for Dyslexia, Stealth Dyslexia, Dyscalculia, Dysgraphia
+`Get PDF’s for Dyslexia, Stealth Dyslexia, Dyscalculia, Dysgraphia`
 
 ## My Child Is Struggling, Now What?
 
