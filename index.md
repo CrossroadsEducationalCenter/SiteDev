@@ -141,7 +141,7 @@ Search and Teach
 
 Lindsey Koppert
 
-Contact: (Crossroads.lindsey@gmail.com)
+Contact: [](Crossroads.lindsey@gmail.com)
 
 ## FAQ
 
