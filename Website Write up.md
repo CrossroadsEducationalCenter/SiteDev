@@ -1,6 +1,3 @@
----
-layout: page
----
 # Learning Differences
 
 ## What are LD’s?
