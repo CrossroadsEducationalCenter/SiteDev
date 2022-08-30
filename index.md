@@ -43,11 +43,11 @@ PDF’s for Dyslexia, Stealth Dyslexia, Dyscalculia, Dysgraphia
 
   - Websites:
 
-    - Understood.org
+    - <https://www.Understood.org>
 
-    - <https://www.thedyslexiainitiative.org>
+    - <https://www.TheDyslexiaInitiative.org>
 
-    - NILDcanada.org
+    - <https://www.NILDcanada.org>
 
     - <https://www.ldao.ca/home/Assessments>
 
